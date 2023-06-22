@@ -2288,12 +2288,12 @@ div#logo .pdf_boton .btn {
 .addtocalendar var {
   display: none;
 }
-/**
+
 .addtocalendar {
   position: relative;
   display: inline-block;
 }
-*/
+
 .atcb-link {
   display: block;
   outline: none !important;
