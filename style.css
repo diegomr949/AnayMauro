@@ -1513,7 +1513,7 @@ div#intro {
   width: 100vw;
   height: 100vh;
   padding: 30px;
-  background: url(images/Fondo\ limpio.jpeg) no-repeat;
+  background: url(images/Fondo\ Ana\ y\ Mauro.jpeg) no-repeat;
   background-size: cover;
 }
 @media (min-width: 1200px) {
@@ -1566,7 +1566,7 @@ div#intro .icon-play {
 div#portada {
   width: 100vw;
   height: 100vh;
-  background: url(images/Fondo\ limpio.jpeg) no-repeat;
+  background: url(images/Fondo\ Ana\ y\ Mauro.jpeg) no-repeat;
   background-size: cover;
 }
 @media (min-width: 1200px) {
@@ -1577,7 +1577,7 @@ div#portada {
 div#portada .portada_imagen {
   width: 72vw;
   height: 75vh;
-  background: url(images/1.jpg) no-repeat;
+  background: url(images/fotos/1\ \(3\).jpeg) no-repeat;
   background-size: cover;
   border: solid 5px;
   border-image-source: url(images/glitter.jpg);
@@ -1585,7 +1585,7 @@ div#portada .portada_imagen {
 }
 @media (min-width: 600px) {
   div#portada .portada_imagen {
-    background: url(images/1.jpg) no-repeat;
+    background: url(images/fotos/1\ \(3\).jpeg) no-repeat;
   }
 }
 @media (min-width: 1200px) {
@@ -1644,7 +1644,7 @@ div#portada .icon-avanzar {
 div#historia {
   width: 100vw;
   height: 100vh;
-  background: url(images/Fondo\ limpio.jpeg) no-repeat;
+  background: url(images/Fondo\ Ana\ y\ Mauro.jpeg) no-repeat;
   background-size: cover;
 }
 @media (min-width: 1200px) {
@@ -1675,7 +1675,7 @@ div#historia .historia_texto .historia_titulo h1 {
 div#fecha {
   width: 100vw;
   height: 100vh;
-  background: url(images/Fondo\ limpio.jpeg) no-repeat;
+  background: url(images/Fondo\ Ana\ y\ Mauro.jpeg) no-repeat;
   background-size: cover;
 }
 @media (max-width: 600px) and (min-height: 700px) {
@@ -1693,12 +1693,12 @@ div#fecha .fecha_imagen {
   left: auto;
   width: 100vw;
   height: 51vh;
-  background: url(images/6.jpg) no-repeat;
+  background: url(images/fotos/1\ \(4c\).jpeg) no-repeat;
   background-size: 100% auto;
 }
 @media (min-width: 600px) {
   div#fecha .fecha_imagen {
-    background: url(images/6.jpg) no-repeat;
+    background: url(images/fotos/1\ \(4c\).jpeg) no-repeat;
   }
 }
 @media (min-width: 1200px) {
@@ -1742,7 +1742,7 @@ div#fecha .fecha_texto {
 div#contador {
   width: 100vw;
   height: 100vh;
-  background: url(images/fondo\ sin\ nada.jpeg) no-repeat;
+  background: url(images/Fondo\ Ana\ y\ Mauro.jpeg) no-repeat;
   background-size: cover;
 }
 @media (min-width: 1200px) {
@@ -1805,7 +1805,7 @@ div#contador h3 {
 div#ceremonia {
   width: 100vw;
   height: 100vh;
-  background: url(images/Fondo\ limpio.jpeg) no-repeat;
+  background: url(images/Fondo\ Ana\ y\ Mauro.jpeg) no-repeat;
   background-size: cover;
 }
 @media (min-width: 1200px) {
@@ -1867,7 +1867,7 @@ div#ceremonia .ceremonia_texto h4 {
 div#fiesta {
   width: 100vw;
   height: 100vh;
-  background: url(images/Fondo\ limpio.jpeg) no-repeat;
+  background: url(images/Fondo\ Ana\ y\ Mauro.jpeg) no-repeat;
   background-size: cover;
 }
 @media (min-width: 1200px) {
@@ -1888,7 +1888,7 @@ div#fiesta .banda {
 div#fiesta .fiesta_imagen {
   width: 70vw;
   height: 50vh;
-  background: url(images/3.jpg) no-repeat;
+  background: url(images/fotos/1\ \(9c\).jpeg) no-repeat;
   background-size: 100% auto;
   border: solid 5px;
   border-image-source: url(images/glitter.jpg);
@@ -1896,7 +1896,7 @@ div#fiesta .fiesta_imagen {
 }
 @media (min-width: 600px) {
   div#fiesta .fiesta_imagen {
-    background: url(images/3.jpg) no-repeat;
+    background: url(images/fotos/1\ \(9c\).jpeg) no-repeat;
   }
 }
 @media (min-width: 1200px) {
@@ -1925,7 +1925,7 @@ div#playlist {
   width: 100vw;
   height: 100vh;
   padding: 17vh 18vw 10vh 18vw;
-  background: url(images/Fondo\ limpio.jpeg) no-repeat;
+  background: url(images/Fondo\ Ana\ y\ Mauro.jpeg) no-repeat;
   background-size: cover;
 }
 @media (min-width: 1200px) {
@@ -1976,7 +1976,7 @@ div#playlist .btn {
 div#hashtag {
   width: 100vw;
   height: 100vh;
-  background: url(images/Fondo\ limpio.jpeg) no-repeat;
+  background: url(images/Fondo\ Ana\ y\ Mauro.jpeg) no-repeat;
   background-size: cover;
   padding: 10vh 10vw;
 }
@@ -2023,7 +2023,7 @@ div#hashtag .hashtag_imagen {
   width: 65vw;
   height: 60vh;
   margin: 5vh 0 3vh 0;
-  background-image: url(images/5.jpg);
+  background-image: url(images/fotos/1\ \(12c\).jpeg);
   background-size: cover;
   border: solid 5px;
   border-image-source: url(images/glitter.jpg);
@@ -2031,7 +2031,7 @@ div#hashtag .hashtag_imagen {
 }
 @media (min-width: 600px) {
   div#hashtag .hashtag_imagen {
-    background: url(images/5.jpg) no-repeat;
+    background: url(images/fotos/1\ \(12c\).jpeg) no-repeat;
   }
 }
 @media (min-width: 1200px) {
@@ -2076,7 +2076,7 @@ div#regalo {
   width: 100vw;
   height: 100vh;
   padding: 17vh 18vw 10vh 18vw;
-  background: url(images/Fondo\ limpio.jpeg) no-repeat;
+  background: url(images/Fondo\ Ana\ y\ Mauro.jpeg) no-repeat;
   background-size: cover;
 }
 @media (min-width: 1200px) {
@@ -2132,7 +2132,7 @@ div#regalo .btn {
 div#confirmacion {
   width: 100vw;
   height: 100vh;
-  background: url(images/Fondo\ limpio.jpeg) no-repeat;
+  background: url(images/Fondo\ Ana\ y\ Mauro.jpeg) no-repeat;
   background-size: cover;
 }
 @media (max-width: 600px) and (min-height: 700px) {
@@ -2150,12 +2150,12 @@ div#confirmacion .confirmacion_imagen {
   left: auto;
   width: 100vw;
   height: 51vh;
-  background: url(images/4.jpg) no-repeat;
+  background: url(images/fotos/1\ \(1c\).jpeg) no-repeat;
   background-size: 100% auto;
 }
 @media (min-width: 600px) {
   div#confirmacion .confirmacion_imagen {
-    background: url(images/4.jpg) no-repeat;
+    background: url(images/fotos/1\ \(1c\).jpeg) no-repeat;
   }
 }
 @media (min-width: 1200px) {
@@ -2224,7 +2224,7 @@ div#confirmacion .confirmacion_boton .btn {
 div#logo {
   width: 100vw;
   height: 100vh;
-  background: url(images/Fondo\ limpio.jpeg) no-repeat;
+  background: url(images/Fondo\ Ana\ y\ Mauro.jpeg) no-repeat;
   background-size: cover;
 }
 @media (min-width: 1200px) {
@@ -2425,7 +2425,7 @@ div#logo .pdf_boton .btn {
 div#covid {
   width: 100vw;
   height: 100vh;
-  background: url(images/Fondo\ limpio.jpeg) no-repeat;
+  background: url(images/Fondo\ Ana\ y\ Mauro.jpeg) no-repeat;
   background-size: cover;
 }
 @media (min-width: 1200px) {
@@ -2489,7 +2489,6 @@ div#covid .covid_items p#vacuna {
 }
 div#covid .covid_items p#tapaboca {
   background-image: url(images/billete.jpg);
-  min-height: 6vh;
 }
 div#covid .covid_items p#manos {
   background-image: url(images/covid-manos.png);
@@ -2502,6 +2501,15 @@ div#covid .covid_items p#vaso {
 }
 div#covid .covid_items p#sintomas {
   background-image: url(images/covid-sintomas.png);
+}
+div#covid .covid_items p#whatsapp {
+  background-image: url(images/logoWhatsapp.png);
+}
+div#covid .covid_items p#exclamacion {
+  background-image: url(images/signo-exclamacion.png);
+}
+div#covid .covid_items p#billete {
+  background-image: url(images/billetelogo.png);
 }
 
 body {
